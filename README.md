@@ -17,7 +17,7 @@
 ## Todas los procedimientos almacenados son con un parámetro de salida que muestra un mensaje desde MySQL.
 ## All stored procedures are with an output parameter that shows a message from MySQL.
 
-##BLL
+# BLL
 
 #### Create_products -> Class to insert with a stored procedure..
 #### Create_products -> Clase para insertar con un procedimiento almacenado.
@@ -31,7 +31,7 @@
 #### Read_products -> Class to make a select with stored procedure and without stored procedure (example select * from products;).
 #### Read_products -> Clase para hacer un select con procedimiento almacenado y sin procedimiento almacenado (ejemplo select* from products;).
 
-##DAL
+# DAL
 
 ####  CONNECTION -> Here are the functions that allow to execute stored procedures and queries with pure code.
 ####  CONNECTION -> Aquí se encuentran las funciones que permite ejecutar los procedimientos almacenados y las consultas con puro código.
