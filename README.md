@@ -6,3 +6,8 @@
 
 ### EdClass is a set of classes that allow the handling of views, queries and stored procedures in C # with Mysql through parameters
 
+
+## Important Information / Información Importante
+
+### Add the MySQL reference in the project references in new projects.
+### Agregar la referencia de MySQL en las referencias del proyecto en nuevos proyectos.
